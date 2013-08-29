@@ -1,0 +1,16 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+MTSM,Metro Transit System-City of Madison,http://www.mymetrobus.com,America/Chicago,en,608-266-4466,https://www.cityofmadison.com/epayment/metro/busPass/index.cfm
+CMAD,City of Madison,http://www.cityofmadison.com,America/Chicago,en,,
+CFIT,City of Fitchburg,http://www.city.fitchburg.wi.us,America/Chicago,en,,
+CMID,City of Middleton,http://www.ci.middleton.wi.us,America/Chicago,en,,
+CMON,City of Monona,http://www.mymonona.com,America/Chicago,en,,
+CVER,City of Verona,http://www.ci.verona.wi.us,America/Chicago,en,,
+VMAP,Village of Maple Bluff,http://www.villageofmaplebluff.com,America/Chicago,en,,
+VMCF,Village of McFarland,http://www.mcfarland.wi.us,America/Chicago,en,,
+VSHO,Village of Shorewood Hills,http://www.shorewood-hills.org,America/Chicago,en,,
+TBLO,Town of Blooming Grove,http://www.blmgrove.com,America/Chicago,en,,
+TBUR,Town of Burke,http://townofburke.com,America/Chicago,en,,
+TMAD,Town of Madison,http://www.town.madison.wi.us,America/Chicago,en,,
+TMID,Town of Middleton,http://town.middleton.wi.us,America/Chicago,en,,
+UWIS,University of Wisconsin,http://www.wisc.edu,America/Chicago,en,,
+PRIV,Non-public entity,http://www.mymetrobus.com,America/Chicago,en,,
