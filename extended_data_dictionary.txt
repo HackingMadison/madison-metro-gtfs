@@ -4,6 +4,25 @@ General Transit Feed Specification Reference maintained at:,https://developers.g
 
 Extended data elements listed below:,Usage descriptions.
 
+stops.txt:agency_id,Coordinating agency for bus stop location.
+
+stops.txt:stop_jurisdiction,Governing jurisdiction of bus stop location-including travel path of vehicle and access area for passengers.
+CMAD,City of Madison
+CFIT,City of Fitchburg
+CMID,City of Middleton
+CMON,City of Monona
+CVER,City of Verona
+VMAP,Village of Maple Bluff
+VMCF,Village of McFarland
+VSHO,Village of Shorewood Hills
+TBLO,Town of Blooming Grove
+TBUR,Town of Burke
+TMAD,Town of Madison
+TMID,Town of Middleton
+UWIS,University of Wisconsin
+MSTM,Metro Transit System-City of Madison
+PRIV,Location not under any governing jurisdiction
+
 stops.txt:position,Orientation of stop location along travel path of vehicle.
 nearside,stop is located before intersecting cross street
 farside,stop is located after intersecting cross street
@@ -81,3 +100,6 @@ stop_features.txt:feature_type,Hierarchical value of an amenity located at a bus
 5100,Shelter light
 5101,Transit agency shelter light
 5102,Local government shelter light
+5103,External jurisdiction light
+5104,Public institution light
+5105,Other entity light
