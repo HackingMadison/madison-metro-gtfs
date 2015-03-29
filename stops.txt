@@ -976,7 +976,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,agency_id,stop_jurisdict
 4551,4551,S MIDVALE & CHEROKEE (NB),This stop (#4551) is northbound on the 1001 block of MIDVALE BLVD (S) nearside CHEROKEE DR,43.042324,-89.450879,MMT,CMAD,0,,nearside,northbound,1
 4552,4552,E CHERYL & NO OAKS (WB),This stop (#4552) is westbound on the 5150 block of E CHERYL PKWY nearside NO OAKS RDG,43.007249,-89.394689,MMT,CFIT,0,,nearside,westbound,0
 4556,4556,E VERONA & ENTERPRISE (WB),This stop (#4556) is westbound on the 498 block of VERONA AVE (E) farside ENTERPRISE DR,42.99287,-89.526778,MMT,CVER,0,,farside,westbound,1
-4559,4559,W VERONA & WESTRIDGE (EB),This stop (#4559) is eastbound on the 799 block of VERONA AVE (W) farside WESTRIDGE PKWY,42.987718,-89.552773,MMT,CVER,0,,farside,eastbound,0
+4559,4559,W VERONA & WESTRIDGE (EB),This stop (#4559) is eastbound on the 801 block of VERONA AVE (W) nearside WESTRIDGE PKWY,42.987673,-89.553340,MMT,CVER,0,,nearside,eastbound,0
 4560,4560,S BELTLINE FT & SEMINOLE (WB),This stop (#4560) is westbound on the 4200 block of BELTLINE FRONTAGE (S) farside SEMINOLE HWY,43.034554,-89.443979,MMT,CMAD,0,,farside,westbound,1
 4572,4572,TODD & PELHAM (SB),This stop (#4572) is southbound on the 3098 block of TODD DR nearside PELHAM RD,43.029999,-89.425016,MMT,CMAD,0,,nearside,southbound,0
 4573,4573,LOVELL & CHALET GDNS (EB),This stop (#4573) is eastbound on the 4999 block of LOVELL LN farside CHALET GARDENS RD,43.026646,-89.461877,MMT,CFIT,0,,farside,eastbound,0
@@ -1024,7 +1024,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,agency_id,stop_jurisdict
 4801,4801,RESEARCH PK & LACY (NB),This stop (#4801) is northbound on the 2700 block of RESEARCH PARK DR farside LACY RD,43.001541,-89.425311,MMT,CFIT,0,,farside,northbound,0
 4806,4806,ALLIED & LOVELL (SB),This stop (#4806) is southbound on the 2400 block of ALLIED DR farside LOVELL LN,43.026548,-89.459916,MMT,CMAD,0,,farside,southbound,1
 4810,4810,E VERONA FT & CAP CITY PATH (SB),This stop (#4810) is southbound on the 5198 block of VERONA FRONTAGE (E) adjacent CAPITOL CITY PATH,43.025946,-89.466478,MMT,CFIT,0,,adjacent,southbound,0
-4812,4812,W VERONA & WESTRIDGE (WB),This stop (#4812) is westbound on the 800 block of VERONA AVE (W) farside WESTRIDGE PKWY,42.988039,-89.55355,MMT,CVER,0,,farside,westbound,0
+4812,4812,W VERONA & WESTRIDGE (WB),This stop (#4812) is westbound on the 798 block of VERONA AVE (W) nearside WESTRIDGE PKWY,42.988076,-89.552983,MMT,CVER,0,,nearside,westbound,0
 4818,4818,TODD & GREENWAY (SB),This stop (#4818) is southbound on the 2936 block of TODD DR nearside GREENWAY VW,43.031844,-89.423215,MMT,CMAD,0,,nearside,southbound,0
 4820,4820,E VERONA FT & WILLIAMSBURG (SB),This stop (#4820) is southbound on the 5298 block of VERONA FRONTAGE (E) nearside WILLIAMSBURG WAY,43.023555,-89.468031,MMT,CFIT,0,,nearside,southbound,0
 4821,4821,S FISH HATCHERY & CHERYL (NB),This stop (#4821) is northbound on the 2760 block of FISH HATCHERY RD (S) nearside CHERYL DR,43.004951,-89.427544,MMT,CFIT,0,,nearside,northbound,0
@@ -2091,7 +2091,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,agency_id,stop_jurisdict
 9892,9892,N THOMPSON & MESTA (SB),This stop (#9892) is southbound on the 828 block of THOMPSON DR (N) nearside MESTA LN,43.109788,-89.296713,MMT,CMAD,0,,nearside,southbound,0
 9897,9897,EAST WASH & WRIGHT (EB),This stop (#9897) is eastbound on the 3401 block of E WASHINGTON AVE farside WRIGHT ST,43.11312,-89.330094,MMT,CMAD,0,,farside,eastbound,1
 9900,9900,AM FAM DR & HQ BLDG (SB),This stop (#9900) is southbound on the 6000 block of AMERICAN FAMILY LOT adjacent AMERICAN FAMILY HQ DOOR,43.156741,-89.287653,MMT,PRIV,0,,adjacent,southbound,1
-9901,9901,E TERRACE & UW CLINIC (EB),This stop (#9901) is eastbound on the 5249 block of EAST TERRACE DR adjacent UW CLINIC DRIVEWAY,43.144737,-89.29021,MMT,CMAD,0,,adjacent,eastbound,0
+9901,9901,E TERRACE & UW CLINIC (EB),This stop (#9901) is eastbound on the 5249 block of EAST TERRACE DR adjacent UW CLINIC DRIVEWAY,43.145256,-89.290123,MMT,CMAD,0,,adjacent,eastbound,0
 9917,9917,ZEIER & TOYS-R-US EAST (NB),This stop (#9917) is northbound on the 2161 block of ZEIER RD adjacent TOYS-R-US DRIVEWAY,43.127002,-89.301734,MMT,CMAD,0,,adjacent,northbound,0
 9918,9918,KINSMAN & N STOUGHTON (WB),This stop (#9918) is westbound on the 3698 block of KINSMAN BLVD farside STOUGHTON RD (N),43.125876,-89.325889,MMT,CMAD,0,,farside,westbound,0
 9928,9928,EAST TOWNE & ZEIER (WB),This stop (#9928) is westbound on the 4698 block of EAST TOWNE BLVD farside ZEIER RD,43.128858,-89.305042,MMT,CMAD,0,,farside,westbound,1
