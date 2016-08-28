@@ -2,6 +2,8 @@ Metro Transit Data Dictionary,City of Madison (WI) USA
 
 General Transit Feed Specification Reference maintained at:,https://developers.google.com/transit/gtfs/reference
 
+General Transit Feed Specification Real-Time Reference maintained at:,https://developers.google.com/transit/gtfs-realtime/
+
 Extended data elements listed below:,Usage descriptions.
 
 stops.txt:agency_id,Coordinating agency for bus stop location.
@@ -49,6 +51,7 @@ trips.txt:trip_type,Text character flag to identify specific trip characteristic
 C,First scheduled trip serving a complete pattern of stops from earliest route origin to furthest route desintation [incomplete data].
 D,Delay scheduled for vehicle block at a mid-route bus stop, between two trips going in the same direction.
 F,Trip only operates on Friday Standard service dates (on a combined Standard weekday schedule - trip not operate on Monday-Thursday service dates).
+G,Trip only operates on Weekday Standard service dates.
 H,Trip only operates on Saturday and/or Sunday service dates (on a combined weekend/holiday schedule - trip does not operate on Holiday service dates).
 L,Limited stops along regular route are not served by this specific trip.
 R,Trip only operates on Saturday and/or Sunday Standard service dates (on a combined Standard/Recess weekend schedule - trip does not operate on Recess service dates).
