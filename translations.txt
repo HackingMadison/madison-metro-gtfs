@@ -1,0 +1,3 @@
+trans_id,lang,translation
+http://www.mymetrobus.com,es,http://www.cityofmadison.com/Metro/about/espanol/
+http://www.cityofmadison.com/Metro/schedules/supplemental/,es,http://www.cityofmadison.com/metro/schedules/supplemental/index-spanish.cfm
